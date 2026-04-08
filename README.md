@@ -11,7 +11,7 @@ This project is a simple Profile Card built using only HTML, CSS, and image. It 
 * CSS3 – Styling, layout
 * Image – Profile picture
 ## Project Structure
-**act3_profile_card**
+**act3_profile_card-main**
 * faiz.jpg
 * index.html
 * style.css
