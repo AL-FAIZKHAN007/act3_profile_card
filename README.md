@@ -11,10 +11,12 @@ This project is a simple Profile Card built using only HTML, CSS, and image. It 
 * CSS3 – Styling, layout
 * Image – Profile picture
 ## Project Structure
-**profile_card/** #project folder name
+**act3_profile_card**
 * faiz.jpg
 * index.html
 * style.css
+* README.md
+* LICENSE
 ## How to Run
 1. Download or clone the project: git clone https://github.com/AL-FAIZKHAN007/act3_profile_card.git
 2. Open the index.html file in any web browser
